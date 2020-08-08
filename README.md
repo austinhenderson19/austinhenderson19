@@ -1,9 +1,9 @@
 ### Hi there, I'm Austin - aka webster :globe_with_meridians:
 
 ## I'm a Developer, Founder, and Security Researcher!
-- I'm currently working on a personal budgeting application
+- I'm currently working on a personal budgeting platform
 - I'm currently learning Kubernetes and Microservices :sweat_smile:
-- Fun fact: I am in the works of getting a security research paper published :wink:
+- Fun fact: I am writing a security reseach paper :wink:
 
 <br />
 
