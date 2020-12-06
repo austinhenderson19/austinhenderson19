@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Founder, and Security Researcher!
 - I'm currently working on a personal budgeting platform
-- I'm currently learning Kubernetes and Microservices :sweat_smile:
+- I'm currently learning Microfrontends and webpack :sweat_smile:
 - Fun fact: I am writing a security reseach paper :wink:
 
 <br />
