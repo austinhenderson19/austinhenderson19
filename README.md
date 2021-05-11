@@ -1,8 +1,7 @@
-### Hi there, I'm Austin - aka webster :globe_with_meridians:
+### Hi there, I'm Austin - aka Jackal :globe_with_meridians:
 
-## I'm a Developer, Founder, and Security Researcher!
-- I'm currently working on a personal budgeting platform
-- I'm currently learning Microfrontends and webpack :sweat_smile:
+## I'm a Software Developer, Founder, and Security Researcher!
+- I'm the Founder of Nolia, a software firm that offers consulting, software development, and product design :smile:
 - Fun fact: I am writing a security reseach paper :wink:
 
 <br />
