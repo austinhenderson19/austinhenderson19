@@ -1,8 +1,7 @@
-### Hi there, I'm Austin - aka Jackal :globe_with_meridians:
+### Hi there, I'm Austin. I also go by the name "cogecosmarthub". Check me out on TryHackMe! :globe_with_meridians:
 
 ## I'm a Software Developer, Founder, and Security Researcher!
-- I'm the Founder of Nolia, a software firm that offers consulting, software development, and product design :smile:
-- Fun fact: I am writing a security reseach paper :wink:
+- I'm the founder of two companies; Nolia Red, a security research company that specializes in tesitng network and application security, and Arconic, a company that offers consulting, software development, and product design :smile:
 
 <br />
 
@@ -30,5 +29,5 @@
 
 ### Connect with me
 
-[<img align="left" alt="Email" width="26px" src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" />](mailto:hendersonaustin28@gmail.com)
+[<img align="left" alt="Email" width="26px" src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" />](mailto:austin@arconic.io)
 [<img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/ios-filled/50/000000/linkedin-2.png" />](https://www.linkedin.com/in/austin-henderson-225565171/)
