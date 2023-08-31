@@ -1,4 +1,4 @@
-### Hi there, I'm Austin. I also go by the name "cogecosmarthub". Check me out on TryHackMe! :globe_with_meridians:
+### Hi there, I'm Austin. I also go by the name "cerebralstud". Check me out on TryHackMe! :globe_with_meridians:
 
 ## I'm a Software Developer, Founder, and Security Researcher!
 - I'm the founder of two companies; Nolia Red, a security research company that specializes in tesitng network and application security, and Arconic, a company that offers consulting, software development, and product design :smile:
